@@ -69,7 +69,7 @@ function atualizaInterface() {
       fotosHTML += `<div class="d1-right">
       <div class="d-1-image">
         <img
-          src="/assets/img/${candidato.fotos[i].url}"
+          src="./assets/img/${candidato.fotos[i].url}"
           alt="Canditado(a) para ${candidato.fotos[i].legenda}"
         />
         <spa class="cargo"> ${candidato.fotos[i].legenda}</spa>
