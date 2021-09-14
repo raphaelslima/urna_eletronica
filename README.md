@@ -21,3 +21,8 @@ foi minha intenção adicionar ao projeto nenhuma chave de segurança.
 
 Esse projeto foi ensinado em um workshop pela empresa b7web, implementei esse projeto, pois ele possui regras de certa forma um pouco 
 complexa sendo uma ótima oportunidade para desenvolver minha lógica de programação e meu portfólio.
+
+Ficaria feliz com feedbacks:
+
+E-mail: rapaheldesousalm@gmail.com
+linkdin: https://www.linkedin.com/in/raphaellima98/
